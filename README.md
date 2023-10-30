@@ -11,3 +11,6 @@ pip install pillow
 ```
 
 ③実行
+```bash
+python split.py
+```
